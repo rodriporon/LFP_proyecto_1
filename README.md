@@ -1,1 +1,2 @@
-# LFP_proyecto_1
+# Lenguajes Formales y de Programación
+## Proyecto 1
